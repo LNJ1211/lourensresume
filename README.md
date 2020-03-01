@@ -1,3 +1,3 @@
 # lourensresume
 Personnel Portfolio 
-This is my reame file for my personnel Portfolio site www.lnj.co.za
+This is my readme file for my personnel Portfolio site www.lnj.co.za
